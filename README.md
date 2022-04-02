@@ -4,6 +4,7 @@
 	wait() 
 until game:IsLoaded() ]]
 loadstring(game:HttpGet"https://raw.githubusercontent.com/xDepressionx/Free-Script/main/AllScript.lua")()
+
 --[[if _G.DevMode_ == true then
 elseif _G.DevMode_ == false then
     _G.Team = "Pirates"
